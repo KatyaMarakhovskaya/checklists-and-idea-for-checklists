@@ -1,1 +1,1 @@
-### some of this information I took from internet
+### some of this information is not mine, I took it from the internet
