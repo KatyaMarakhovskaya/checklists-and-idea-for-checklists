@@ -1,48 +1,189 @@
-<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns="http://www.w3.org/TR/REC-html40">
- <head>
-  <meta name="Excel Workbook Frameset"/>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-  <meta name="ProgId" content="Excel.Sheet"/>
-  <meta name="Generator" content="WPS Office ET"/>
-  <!--[if gte mso 9]>
-   <xml>
-    <o:DocumentProperties>
-     <o:Created>2021-08-12T12:56:09</o:Created>
-     <o:LastAuthor>Zayka</o:LastAuthor>
-     <o:LastSaved>2021-08-12T12:56:54</o:LastSaved>
-    </o:DocumentProperties>
-    <o:CustomDocumentProperties>
-     <o:KSOProductBuildVer dt:dt="string">1033-11.2.0.9669</o:KSOProductBuildVer>
-    </o:CustomDocumentProperties>
-   </xml>
-  <![endif]-->
-  <link rel="File-List" href="текстовое поле.files/filelist.xml"/>
-  <link id="shLink" href="текстовое поле.files/sheet001.htm"/>
-  <!--[if gte mso 9]>
-   <xml>
-    <x:ExcelWorkbook>
-     <x:ExcelWorksheets>
-      <x:ExcelWorksheet>
-       <x:Name>текстовое поле</x:Name>
-       <x:WorksheetSource HRef="текстовое поле.files/sheet001.htm"/>
-      </x:ExcelWorksheet>
-     </x:ExcelWorksheets>
-     <x:Stylesheet HRef="текстовое поле.files/stylesheet.css"/>
-     <x:ProtectStructure>False</x:ProtectStructure>
-     <x:ProtectWindows>False</x:ProtectWindows>
-     <x:WindowHeight>7830</x:WindowHeight>
-     <x:WindowWidth>19815</x:WindowWidth>
-    </x:ExcelWorkbook>
-   </xml>
-  <![endif]-->
- </head>
- <frameset rows="*,18" border="0" width="0" frameborder="no">
-  <frame src="текстовое поле.files/sheet001.htm" name="frSheet" noresize/>
-  <frame src="текстовое поле.files/tabstrip.htm" name="frTabs" marginwidth="0" marginheight="0"/>
-  <noframes>
-   <body>
-    <p>此页面使用了框架，而您的浏览器不支持框架</p>
-   </body>
-  </noframes>
- </frameset>
-</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head>
+        <meta name="author" content="dev.sitechco.ru" />
+    </head>
+<table  border="1">
+    <tr>
+        <td colspan="3">Name (Abbr.): Текстовое поле (chit)</td>
+    </tr>
+    <tr>
+        <td colspan="3">Description: Базовые проверки текстового поля</td>
+    </tr>
+            <tr>
+        <td colspan="3">Status: Not agreed </td>
+    </tr>
+            <tr>
+        <td colspan="3" style="background-color: #ced1d1;">Проверка вводимого</td>
+    </tr>
+    <tr>
+        <td colspan="3" style="background-color: #ced1d1;">Проверьте, что поле корректно обрабатывает эти данные</td>
+    </tr>
+    <tr>
+        <td>№</td>
+        <td>Priority</td>
+        <td>Check</td>
+                    </tr>
+        <tr>
+        <td>
+            1        </td>
+        <td>
+            Medium        </td>
+        <td>Пустое поле</td>
+                    </tr>
+        <tr>
+        <td>
+            2        </td>
+        <td>
+            Medium        </td>
+        <td>Несколько пробелов</td>
+                    </tr>
+        <tr>
+        <td>
+            3        </td>
+        <td>
+            Medium        </td>
+        <td>Пробелы до и после текста</td>
+                    </tr>
+        <tr>
+        <td>
+            4        </td>
+        <td>
+            Medium        </td>
+        <td>Текст в верхнем регистре</td>
+                    </tr>
+        <tr>
+        <td>
+            5        </td>
+        <td>
+            Medium        </td>
+        <td>Текст в нижнем регистре</td>
+                    </tr>
+        <tr>
+        <td>
+            6        </td>
+        <td>
+            Medium        </td>
+        <td>Текст в верхнем и нижнем регистре</td>
+                    </tr>
+        <tr>
+        <td>
+            7        </td>
+        <td>
+            Medium        </td>
+        <td>Знаки препинания</td>
+                    </tr>
+        <tr>
+        <td>
+            8        </td>
+        <td>
+            Medium        </td>
+        <td>Цифры</td>
+                    </tr>
+        <tr>
+        <td>
+            9        </td>
+        <td>
+            Medium        </td>
+        <td>Длинные строки: 255, 256, 257, 1000, 1024, 2000, 2048 и более символов</td>
+                    </tr>
+        <tr>
+        <td>
+            10        </td>
+        <td>
+            Medium        </td>
+        <td>Спецсимволы: ~`!@#$%^&*()_+<>?:"{}[];’</td>
+                    </tr>
+        <tr>
+        <td>
+            11        </td>
+        <td>
+            Medium        </td>
+        <td>Символы на разных языках</td>
+                    </tr>
+            <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+                    </tr>
+            <tr>
+        <td colspan="3" style="background-color: #ced1d1;">Проверка способа ввода</td>
+    </tr>
+    <tr>
+        <td colspan="3" style="background-color: #ced1d1;">Проверьте, что форма корректно обрабатывает следующие способы ввода</td>
+    </tr>
+    <tr>
+        <td>№</td>
+        <td>Priority</td>
+        <td>Check</td>
+                    </tr>
+        <tr>
+        <td>
+            12        </td>
+        <td>
+            Medium        </td>
+        <td>Cотрите несколько символов клавишей BackSpace, а потом введите другие</td>
+                    </tr>
+        <tr>
+        <td>
+            13        </td>
+        <td>
+            Medium        </td>
+        <td>Передвиньте курсор стрелками в середину слова, и впишите туда несколько символов, включая пробел</td>
+                    </tr>
+        <tr>
+        <td>
+            14        </td>
+        <td>
+            Medium        </td>
+        <td>Передвиньте курсор мышью в середину слова, и впишите туда несколько символов, включая пробел</td>
+                    </tr>
+        <tr>
+        <td>
+            15        </td>
+        <td>
+            Medium        </td>
+        <td>Вставьте несколько символов командой &quot;Paste&quot; или сочетанием &quot;Ctrl-V&quot;</td>
+                    </tr>
+        <tr>
+        <td>
+            16        </td>
+        <td>
+            Medium        </td>
+        <td>Копируем и вставляем несколько абзацев. Проверяем обработку перевода строки.</td>
+                    </tr>
+        <tr>
+        <td>
+            17        </td>
+        <td>
+            Medium        </td>
+        <td>Имитируйте перевод второй половины текста на новую строку с помощью многократного нажатия клавиши &quot;Пробел&quot;</td>
+                    </tr>
+        <tr>
+        <td>
+            18        </td>
+        <td>
+            Medium        </td>
+        <td>Нажмите кнопку отправки и попытайтесь в процессе отправки быстро ввести в форму ещё несколько символов</td>
+                    </tr>
+            </table>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript"> 
+(function (d, w, c) { (w[c] = w[c] || []).push(function() {
+	try { w.yaCounter43980704 = new Ya.Metrika({
+			id:43980704,
+			clickmap:true,
+			trackLinks:true,
+			accurateTrackBounce:true
+		}); }
+	catch(e) { } });
+	var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); };
+	s.type = "text/javascript"; s.async = true;
+	s.src = "https://mc.yandex.ru/metrika/watch.js";
+	if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); }
+	else { f(); } })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/43980704" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
