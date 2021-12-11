@@ -1,0 +1,4 @@
+Epic ID	Feature ID	User Story ID	User Story Name	TC Priority	Test Case ID	Test Case Name	TC Status	Smoke/Regress	Estimation (hours)	Autotest	Iteration	Notes
+E1	F1	US1	Log in	High	TC1	Log in under admin	Done	Smoke	0.25	0	1	
+E1	F1	US1		High	TC2	Log in under moderator	In process	Regress	0.25	1	1	
+E1	F1	US1		High	TC3	Log in under user	Need to update	-	0.25	0	1	
