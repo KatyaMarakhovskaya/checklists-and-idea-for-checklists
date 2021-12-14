@@ -34,4 +34,20 @@ https://www.websiteplanet.com/uk/webtools/lorem-ipsum/
 10.подсчет длинны строки
 https://pr-cy.ru/textlength/
 
+11. Плагин автозаполнения полей для хрома
+https://bugmagnet.org/
+
+## Статьи
+
+1. Где брать идеи для тестов (подборка полезных ссылок
+https://habr.com/ru/post/524784/
+
+2.  40+ супер-полезных расширений Chrome для тестировщиков
+https://software-testing.ru/library/testing/general-testing/2242-useful-google-chrome-extensions-testing-software
+
+3. Никогда не проверяйте e-mail адреса по стандартам RFC
+https://habr.com/ru/post/224623/
+
+4. по аджайлу
+https://www.atlassian.com/ru/agile/project-management/metrics
 
