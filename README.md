@@ -22,19 +22,17 @@ https://pairwise.teremokgames.com/
 
 7.ситечко
  https://chlist.sitechco.ru/
- 
-8.трело
-https://trello.com/
 
-9.генератор лорен ипсум заданого количества символов
+
+8.генератор лорен ипсум заданого количества символов
 https://03www.ru/generator/gen-03.htm
 
 https://www.websiteplanet.com/uk/webtools/lorem-ipsum/
 
-10.подсчет длинны строки
+9.подсчет длинны строки
 https://pr-cy.ru/textlength/
 
-11. Плагин автозаполнения полей для хрома
+10. Плагин автозаполнения полей для хрома
 https://bugmagnet.org/
 
 ## Статьи
