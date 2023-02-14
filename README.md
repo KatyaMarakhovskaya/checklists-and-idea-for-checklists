@@ -5,7 +5,7 @@
 1.Посчитать количество символов в тексте онлайн
 https://advego.com/info/znakoschitalka-simvolov-online/
 
-2.Браузер стек (платный)
+2.Браузер стек 
 https://live.browserstack.com/dashboard#os=Windows&os_version=11&browser=Opera&browser_version=80.0&zoom_to_fit=true&full_screen=true&url=http%3A%2F%2Fgophish.email%2F&speed=1
 
 3.Майнд карты бесплатные
