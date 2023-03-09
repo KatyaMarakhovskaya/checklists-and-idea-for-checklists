@@ -5,8 +5,7 @@
 1.Посчитать количество символов в тексте онлайн
 https://advego.com/info/znakoschitalka-simvolov-online/
 
-2.Браузер стек 
-https://live.browserstack.com/dashboard#os=Windows&os_version=11&browser=Opera&browser_version=80.0&zoom_to_fit=true&full_screen=true&url=http%3A%2F%2Fgophish.email%2F&speed=1
+2.
 
 3.Майнд карты бесплатные
 https://coggle.it/
@@ -23,7 +22,6 @@ https://pairwise.teremokgames.com/
 7.ситечко
  https://chlist.sitechco.ru/
 
-
 8.генератор лорен ипсум заданого количества символов
 https://03www.ru/generator/gen-03.htm
 
@@ -34,6 +32,10 @@ https://pr-cy.ru/textlength/
 
 10. Плагин автозаполнения полей для хрома
 https://bugmagnet.org/
+
+11.Tutorial for postgresql
+https://metanit.com/sql/postgresql/2.3.php
+
 
 ## Статьи
 
