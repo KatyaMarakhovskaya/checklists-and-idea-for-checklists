@@ -5,7 +5,7 @@
 1.Посчитать количество символов в тексте онлайн
 https://advego.com/info/znakoschitalka-simvolov-online/
 
-2.
+2.https://jsonplaceholder.typicode.com/posts можно тестировать запросы
 
 3.Майнд карты бесплатные
 https://coggle.it/
