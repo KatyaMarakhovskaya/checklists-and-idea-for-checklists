@@ -19,8 +19,6 @@ https://file.generator.teremokgames.com/
 6.Паирвайс бесплатный
 https://pairwise.teremokgames.com/
 
-7.ситечко
- https://chlist.sitechco.ru/
 
 8.генератор лорен ипсум заданого количества символов
 https://03www.ru/generator/gen-03.htm
@@ -50,4 +48,10 @@ https://habr.com/ru/post/224623/
 
 4. по аджайлу
 https://www.atlassian.com/ru/agile/project-management/metrics
+
+5. QA mobile
+https://vladislaveremeev.gitbook.io/qa_bible/mobilnoe-testirovanie/tipy-mobilnykh-prilozhenii
+
+6. App store guidline translated
+https://docs.google.com/document/d/1lFIbVgCqJq-d2YfHYZe2nvwReL4-aSpMcomw-DtRQgE/edit
 
